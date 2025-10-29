@@ -11,9 +11,14 @@ Entender o funcionamento de ataques de brute force (força bruta) em ambientes c
 
 ## 🛠️ Ferramentas utilizadas
 
-- nmap
-- medusa
-- hydra
-- enum4linux
+- `nmap`
+- `medusa`
+- `hydra`
+- `enum4linux`
+
+## 🛡️ Como se proteger
+
+- `Ativar MFA (2FA)`
+- `Usar senhas fortes e únicas`
 
 > **⚠️ Projeto realizado apenas para fins educacionais.**
