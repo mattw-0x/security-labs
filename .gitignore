@@ -1,9 +1,0 @@
-*.vdi
-*.vmdk
-*.ova
-*.log
-*.tmp
-*.pcap
-*.mp4
-.env
-private.key
