@@ -1,3 +1,3 @@
 # Repositório com labs de segurança
 
-⚠️ **Este repositório é apenas para fins educacionais.**
+⚠️ **Este repositório tem propósito exclusivamente educacional e de pesquisa em segurança da informação.**
